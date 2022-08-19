@@ -6,7 +6,12 @@ Python implementation for iron loss prediction of interior permanent magnet sync
 This library contains an implementation of an automatic design system for interior permanent magnet synchronous motors as presented in [1]
 
 ## Dependencies
-hoge
+- python>=3.8
+- numpy
+- pandas
+- sklearn
+- xgboost
+- optuna
 
 ## Architecture
 data: You can download the dataset used for the paper [here](https://ieee-dataport.org/documents/dataset-iron-losses-ipmsms).  
