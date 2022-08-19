@@ -9,7 +9,7 @@ This library contains an implementation of an automatic design system for interi
 hoge
 
 ## Architecture
-data: You can download the dataset used for the paper [here](https://ieee-dataport.org/documents/dataset-motor-parameters-ipmsm).
+data: You can download the dataset used for the paper [here](https://ieee-dataport.org/documents/dataset-iron-losses-ipmsms).  
 [regression](/regression.py): A characteristics prediction model is implemented.
 
 
@@ -21,5 +21,7 @@ MIT
 
 ## Citation
 ```
-[1] Y. Shimizu, “Efficiency Optimization Design that Considers Control of Interior Permanent Magnet Synchronous Motors based on Machine Learning for Automotive Application,” Submitted
+[1] Y. Shimizu, “Efficiency Optimization Design that Considers Control 
+of Interior Permanent Magnet Synchronous Motors based on Machine Learning 
+for Automotive Application,” Submitted
 ```
