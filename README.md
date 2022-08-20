@@ -8,10 +8,10 @@ This library contains an implementation of an automatic design system for interi
 ## Dependencies
 - python>=3.8
 - numpy
-- pandas
-- sklearn
-- xgboost
-- optuna
+- pandaspytho
+- sklearn>=0.24.2
+- xgboost>=1.6.1
+- optuna>=2.10.1
 
 ## Architecture
 data: You can download the dataset used for the paper [here](https://ieee-dataport.org/documents/dataset-iron-losses-ipmsms).  
