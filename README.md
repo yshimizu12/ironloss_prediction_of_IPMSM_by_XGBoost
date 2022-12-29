@@ -3,7 +3,7 @@
 Python implementation for iron loss prediction of interior permanent magnet synchronous motors by XGBoost ([paper](https://ieeexplore.ieee.org/document/10002362))
 
 ## Overview
-This library contains an implementation of an automatic design system for interior permanent magnet synchronous motors as presented in [[1]]((https://ieeexplore.ieee.org/document/10002362))
+This library contains an implementation of an automatic design system for interior permanent magnet synchronous motors as presented in [1]
 
 ## Dependencies
 - python>=3.8
