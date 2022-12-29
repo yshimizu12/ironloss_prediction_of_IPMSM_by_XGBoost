@@ -28,5 +28,5 @@ MIT
 ```
 [1] Y. Shimizu, “Efficiency Optimization Design that Considers Control 
 of Interior Permanent Magnet Synchronous Motors based on Machine Learning 
-for Automotive Application,” IEEE Access, Accepted
+for Automotive Application,” IEEE Access, in press
 ```
