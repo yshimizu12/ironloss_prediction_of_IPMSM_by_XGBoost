@@ -14,7 +14,7 @@ This library contains an implementation of an automatic design system for interi
 - optuna>=2.10.1
 
 ## Architecture
-data: You can download the dataset used for the paper [here](https://ieee-dataport.org/documents/dataset-iron-losses-ipmsms).  
+data: You can download the dataset used for the paper [here](https://ieee-dataport.org/documents/dataset-iron-losses-ipmsms) or [here](https://www.kaggle.com/datasets/uuuuuuuuu/dataset-iron-losses-ipmsms).  
 [regression](/regression.py): A characteristics prediction model is implemented.
 
 
